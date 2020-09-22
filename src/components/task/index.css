@@ -1,0 +1,12 @@
+li.dropzone {
+    background: white;
+    border: 1px solid;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+li, li > label {
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}

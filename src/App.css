@@ -1,0 +1,14 @@
+.todo-app {
+  background: lightgray;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+@media only screen and (min-width: 600px) {
+  .todo-app {
+    padding: 2rem;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+}
+
